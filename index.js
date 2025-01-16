@@ -14,3 +14,11 @@ function addPoints(teamID, points) {
         guestScoreEl.textContent = guestScore;
     }
 }
+
+function restart() {
+    homeScore = 0;
+    guestScore = 0;
+    homeScoreEl.textContent = homeScore;
+    guestScoreEl.textContent = guestScore;
+
+}

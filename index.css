@@ -5,13 +5,14 @@
 
 body {
     margin: 0;
+    background-color: 1B244A;
+
 }
 
 .container {
     display: flex;
     justify-content: space-around;
-    background-color: 1B244A;
-    height: 100vh;
+    height: 500px;
 }
 
 .team-container {
@@ -48,6 +49,7 @@ body {
 }
 
 
+
 .btn-points {
     color: #9AABD8;
     border: solid 2px #9AABD8;
@@ -55,4 +57,10 @@ body {
     background-color: transparent;
     font-family: 'CursedTimerUlil-Aznm';
     padding: 10px 10px;
+}
+
+#restart {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
