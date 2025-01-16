@@ -12,7 +12,7 @@ A simple, interactive scoreboard application built with HTML, CSS, and JavaScrip
 
 ## Demo
 
-Live Demo 
+[Live Demo ](https://fancy-semifreddo-1230f4.netlify.app/)
 
 ## Technologies Used
 
